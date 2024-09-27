@@ -1,0 +1,22 @@
+{
+  "name": "experianglobal.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/experianglobal/experianglobal.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/experianglobal/experianglobal.github.io/issues"
+  },
+  "homepage": "https://github.com/experianglobal/experianglobal.github.io#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.13"
+  }
+}
